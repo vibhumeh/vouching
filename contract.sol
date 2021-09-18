@@ -1,4 +1,3 @@
-// SPDX-License-Identifier: MIT
 //vouchee -blacklisted person who is being vouched for by a high level person.
 pragma solidity 0.8.7;
 import "./ILoaning.sol";
